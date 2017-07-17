@@ -1,0 +1,616 @@
+# Copyright (C) 2012 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/gdgt-databox\n"
+"POT-Creation-Date: 2012-12-17 16:54-0800\n"
+"PO-Revision-Date: 2012-12-17 16:54-0800\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: edit.php:99
+#, php-format
+msgid ""
+"The %1$s builds a list of up to %2$u products by matching products based on "
+"your post tags or when you manually include a product in the post editor."
+msgstr ""
+
+#: edit.php:99
+#, php-format
+msgid ""
+"You can manually add products by entering text into keyword search tool "
+"located at the bottom of the %s editor and selecting a product from the list "
+"of results. If your post is related to a specific product configuration or "
+"special edition you may wish to select that model from the list (e.g. tablet "
+"with mobile broadband vs. tablet with only Wi-Fi)."
+msgstr ""
+
+#: edit.php:99
+#, php-format
+msgid ""
+"Products may also be manually excluded from automatic matching by manually "
+"adding that product to your %1$s list, then clicking the %2$s button."
+msgstr ""
+
+#: edit.php:99 edit.php:196
+msgid "Displayed"
+msgstr ""
+
+#: edit.php:99 edit.php:197
+msgid "Delete"
+msgstr ""
+
+#: edit.php:189
+msgid "Disable Databox on this post"
+msgstr ""
+
+#: edit.php:195
+msgid "Display"
+msgstr ""
+
+#: edit.php:198 edit.php:262
+msgid "Deleted"
+msgstr ""
+
+#: edit.php:199
+msgid "Add a product manually:"
+msgstr ""
+
+#: edit.php:200
+msgid "Start typing..."
+msgstr ""
+
+#: edit.php:201
+msgid "Invalid API key."
+msgstr ""
+
+#: edit.php:202 edit.php:292
+msgid "No results found."
+msgstr ""
+
+#: filter-info.php:93
+msgid "View source code in WordPress plugin repository (this sometimes works)"
+msgstr ""
+
+#: filter-info.php:109
+msgid "Unknown"
+msgstr ""
+
+#: filter-info.php:118
+#, php-format
+msgid ""
+"We found other active plugins that may change your existing post content in-"
+"place or add content to the end of your post alongside the %s."
+msgstr ""
+
+#: filter-info.php:118
+msgid "A non-exhaustive list for reference:"
+msgstr ""
+
+#: filter-info.php:171
+msgid "default"
+msgstr ""
+
+#: filter-info.php:177
+msgid "Priority"
+msgstr ""
+
+#: filter-info.php:177
+msgid "Plugin"
+msgstr ""
+
+#: filter-info.php:177
+msgid "Function"
+msgstr ""
+
+#: product-search.php:86
+msgid " (all models)"
+msgstr ""
+
+#: search-by-keyword.php:35 search-by-tag.php:34
+msgid "Cheatin' uh?"
+msgstr ""
+
+#: settings.php:59
+msgid "API access"
+msgstr ""
+
+#: settings.php:61 settings.php:211
+msgid "API key"
+msgstr ""
+
+#: settings.php:64
+msgid "Product display settings"
+msgstr ""
+
+#: settings.php:79
+#, php-format
+msgid "Automatically display new tabs as %s releases them."
+msgstr ""
+
+#: settings.php:82
+msgid "Databox display settings"
+msgstr ""
+
+#: settings.php:84
+msgid "Content width"
+msgstr ""
+
+#: settings.php:86
+msgid "Web feeds"
+msgstr ""
+
+#: settings.php:87
+msgid "Maximum products"
+msgstr ""
+
+#: settings.php:90
+msgid "Auto-expand"
+msgstr ""
+
+#: settings.php:94
+msgid "Schema.org microdata"
+msgstr ""
+
+#: settings.php:96
+msgid "Content filter priority"
+msgstr ""
+
+#: settings.php:99
+msgid "Access and restrictions"
+msgstr ""
+
+#: settings.php:101
+msgid "Disable capability"
+msgstr ""
+
+#: settings.php:103
+msgid "Stop-tags"
+msgstr ""
+
+#: settings.php:114
+msgid "Key specs"
+msgstr ""
+
+#: settings.php:115
+msgid "Reviews"
+msgstr ""
+
+#: settings.php:116
+msgid "Prices"
+msgstr ""
+
+#: settings.php:129
+msgid "Manage options (Administrator)"
+msgstr ""
+
+#: settings.php:130
+msgid "Publish post (Author)"
+msgstr ""
+
+#: settings.php:131
+msgid "Edit post (Contributor)"
+msgstr ""
+
+#: settings.php:161
+msgid "gdgt API key needed"
+msgstr ""
+
+#: settings.php:162
+#, php-format
+msgid "Please <a href=\"%s\">enter a valid API key</a> to begin using the %s."
+msgstr ""
+
+#: settings.php:177
+msgid "Settings"
+msgstr ""
+
+#: settings.php:207
+msgid "More information:"
+msgstr ""
+
+#: settings.php:207
+msgid "Manage your API key"
+msgstr ""
+
+#: settings.php:207
+#, php-format
+msgid "%s help"
+msgstr ""
+
+#: settings.php:212
+#, php-format
+msgid ""
+"A %1$s API key uniquely identifies your account and its content to %1$s "
+"servers. An API key is required to enable %2$s functionality beyond basic "
+"settings."
+msgstr ""
+
+#: settings.php:216
+msgid "Product display"
+msgstr ""
+
+#: settings.php:217
+#, php-format
+msgid ""
+"Future versions of %1$s may introduce new optional tabs. These tabs will be "
+"included in %1$s output by default. If you wish to manually control any new "
+"optional tabs please update your product display settings."
+msgstr ""
+
+#: settings.php:221
+msgid "Databox display"
+msgstr ""
+
+#: settings.php:222
+#, php-format
+msgid ""
+"The %1$s honors the %2$s <a href=\"%3$s\" title=\"WordPress themes required "
+"hooks and navigation\">required</a> global variable set by themes to "
+"communicate the pixel width of your post's main content column. This "
+"variable is typically set near the beginning of your theme's %4$s file."
+msgstr ""
+
+#: settings.php:222
+#, php-format
+msgid ""
+"A special version of the %1$s suitable for display in Google Reader (and "
+"other feed readers) appears in your site's RSS 2.0 and/or Atom Syndication "
+"Format feeds after the full content of your post. Disable this option if you "
+"prefer not to have the %1$s displayed in your feeds."
+msgstr ""
+
+#: settings.php:222
+msgid ""
+"A %1$s can display up to $2%u products (although you may choose to lower "
+"that limit). In the default settings, the first product in a %1$s appears "
+"expanded with subsequent products collapsed (but still instantly expandable "
+"by your visitors). You many choose to display all products in their fully "
+"expanded state."
+msgstr ""
+
+#: settings.php:222
+#, php-format
+msgid ""
+"%1$s markup adds semantic meaning to %2$s content, helping indexers (such as "
+"%3$s) identify products and their reviews, pricing, and other structured "
+"data. %3$s may even use this data to display special %4$s content alongside "
+"your post in its search results, increasing your search conversion. (This "
+"feature requires %5$s which may break strict themes; try disabling it if you "
+"are having issues.)"
+msgstr ""
+
+#: settings.php:222
+msgid "HTML5 microdata"
+msgstr ""
+
+#: settings.php:222
+#, php-format
+msgid ""
+"If you happen to have multiple plugins acting on the same WordPress content "
+"filters used to display plugin content (such as sharing buttons, related "
+"posts, etc.), you can increase or decrease the priority of the %s to ensure "
+"it displays before or after other content plugins accordingly."
+msgstr ""
+
+#: settings.php:226
+msgid "Restrictions"
+msgstr ""
+
+#: settings.php:227
+#, php-format
+msgid ""
+"The %s may be disabled on individual posts by a WordPress user with "
+"sufficient permissions, or across all posts containing any of the specified "
+"stop-tags."
+msgstr ""
+
+#: settings.php:227
+#, php-format
+msgid ""
+"Sites with editorial workflows that rely on specific user roles and "
+"capabilities may also want to limit the ability to disable the %s."
+msgstr ""
+
+#: settings.php:257
+#, php-format
+msgid "%s Settings"
+msgstr ""
+
+#: settings.php:261
+msgid "Save Changes"
+msgstr ""
+
+#: settings.php:270
+#, php-format
+msgid "Your secret %s API key is required to enable Databox access."
+msgstr ""
+
+#: settings.php:271
+msgid "Visit our API help page"
+msgstr ""
+
+#: settings.php:271
+msgid "to learn more about gdgt API keys or to request a new key."
+msgstr ""
+
+#: settings.php:280
+msgid "Configure how the Databox can be manually or automatically disabled."
+msgstr ""
+
+#: settings.php:290
+msgid "Customize Databox appearance and behavior."
+msgstr ""
+
+#: settings.php:300
+msgid "Customize the tabs shown for each product module."
+msgstr ""
+
+#: settings.php:360
+msgid "API key updated!"
+msgstr ""
+
+#: settings.php:363
+#, php-format
+msgid ""
+"Invalid API key entered. Please check your documentation and/or contact %s."
+msgstr ""
+
+#: settings.php:388
+#, php-format
+msgid "The minimum capability needed to disable the %s on a single post."
+msgstr ""
+
+#: settings.php:389
+msgid "Further details on WordPress roles and capabilities"
+msgstr ""
+
+#: settings.php:409
+#, php-format
+msgid "Permissions changed: only users with %s capability may disable the %s."
+msgstr ""
+
+#: settings.php:427
+#, php-format
+msgid ""
+"Posts containing any of the specified stop-tags will not display the %s."
+msgstr ""
+
+#: settings.php:428
+msgid "Enter one or more tags separated by a comma (,)."
+msgstr ""
+
+#: settings.php:429
+msgid "Add"
+msgstr ""
+
+#: settings.php:467
+#, php-format
+msgid "%s now enabled for any post tagged \"%s.\""
+msgstr ""
+
+#: settings.php:474
+#, php-format
+msgid "%s now disabled for any post tagged \"%s.\""
+msgstr ""
+
+#: settings.php:503
+msgid "or parent"
+msgstr ""
+
+#: settings.php:516
+msgid "Not defined by theme"
+msgstr ""
+
+#: settings.php:518
+msgid "pixels"
+msgstr ""
+
+#: settings.php:518
+msgid "defined by theme"
+msgstr ""
+
+#: settings.php:529
+#, php-format
+msgid "Databox not displayed. Minimum width of %d pixels required."
+msgstr ""
+
+#: settings.php:540
+#, php-format
+msgid "Displaying %1$s Databox: %2$u horizontal pixels fluid to %3$u."
+msgstr ""
+
+#: settings.php:556
+#, php-format
+msgid "Include %s after RSS or Atom feed full content"
+msgstr ""
+
+#: settings.php:571
+#, php-format
+msgid "The %s will appear in feeds after full post content."
+msgstr ""
+
+#: settings.php:574
+#, php-format
+msgid "The %s will no longer appear in feeds."
+msgstr ""
+
+#: settings.php:595
+msgid "Maximum number of products per Databox"
+msgstr ""
+
+#: settings.php:615
+#, php-format
+msgid "The %s will display a maximum of %d %s."
+msgstr ""
+
+#: settings.php:615
+msgid "product"
+msgstr ""
+
+#: settings.php:615
+msgid "products"
+msgstr ""
+
+#: settings.php:630
+msgid "Expand all products on initial page load"
+msgstr ""
+
+#: settings.php:644
+#, php-format
+msgid ""
+"Include %s attributes in the Databox to express semantic meaning. "
+"(Recommended.)"
+msgstr ""
+
+#: settings.php:661
+#, php-format
+msgid ""
+"The %s will now include Schema.org microdata for improved semantic meaning."
+msgstr ""
+
+#: settings.php:663
+#, php-format
+msgid "The %s will not include Schema.org microdata."
+msgstr ""
+
+#: settings.php:684
+#, php-format
+msgid ""
+"Other plugins may also add content alongside the %s at the end of your posts."
+msgstr ""
+
+#: settings.php:684
+#, php-format
+msgid ""
+"Enter a priority value between %1$d and %2$d to reorder where the %3$s "
+"appears."
+msgstr ""
+
+#: settings.php:685
+#, php-format
+msgid ""
+"the lower the number, the earlier its execution, meaning it will appear "
+"higher up the page. A priority of %1$d will show the %3$s above another "
+"plugin acting on the same content filter with a priority of %2$d."
+msgstr ""
+
+#: settings.php:714
+#, php-format
+msgid "Content filter priority %1$s from %2$u to %3$u."
+msgstr ""
+
+#: settings.php:750
+msgid ""
+"All products in the databox will now appear expanded on initial page load."
+msgstr ""
+
+#: settings.php:752
+msgid ""
+"The first product in the databox will appear expanded on the initial page "
+"load."
+msgstr ""
+
+#: settings.php:861
+#, php-format
+msgid "Future versions of the %s will automatically include new tab options."
+msgstr ""
+
+#: settings.php:863
+#, php-format
+msgid ""
+"Auto-update of available tabs disabled. You will need to manually enable new "
+"tabs as they become available in future versions of the %s plugin."
+msgstr ""
+
+#: templates/class-offer.php:90 templates/class-offer.php:159
+msgid "featured seller"
+msgstr ""
+
+#: templates/class-offer.php:120
+msgid "on contract"
+msgstr ""
+
+#: templates/class-offer.php:122 templates/class-offer.php:174
+msgid "+ tax & shipping"
+msgstr ""
+
+#: templates/product.php:292 templates/product.php:465
+#, php-format
+msgid "%s thumbnail image"
+msgstr ""
+
+#: templates/product.php:331
+msgid "Get it for"
+msgstr ""
+
+#: templates/product.php:333 templates/product.php:506
+msgid "Buy from"
+msgstr ""
+
+#: templates/product.php:360
+msgid "key <abbr title=\"specifications\">specs</abbr>"
+msgstr ""
+
+#: templates/product.php:361 templates/product.php:534
+msgid "reviews"
+msgstr ""
+
+#: templates/product.php:362 templates/product.php:535
+msgid "prices"
+msgstr ""
+
+#: templates/product.php:533
+msgid ""
+"key <abbr title=\"specifications\" style=\"border-bottom:0\">specs</abbr>"
+msgstr ""
+
+#: templates/ratings.php:115 templates/ratings.php:168
+msgid "average user rating"
+msgstr ""
+
+#: templates/ratings.php:129 templates/ratings.php:204
+msgid "There are not any user reviews for this product yet."
+msgstr ""
+
+#: templates/ratings.php:129 templates/ratings.php:204
+msgid "Why not be the first to write one?"
+msgstr ""
+
+#: templates/ratings.php:131 templates/ratings.php:207
+msgid "Get better reviews from people who actually have this product!"
+msgstr ""
+
+#: templates/ratings.php:135 templates/ratings.php:212
+#, php-format
+msgid "Review the %s"
+msgstr ""
+
+#: templates/ratings.php:136 templates/ratings.php:213
+msgid "write a review"
+msgstr ""
+
+#: templates/ratings.php:139 templates/ratings.php:217
+msgid "see all reviews"
+msgstr ""
+
+#: templates/specs.php:115 templates/specs.php:148
+msgid "There aren't any specs for this product yet."
+msgstr ""
+
+#: templates/specs.php:115 templates/specs.php:148
+msgid "Check back soon!"
+msgstr ""
+
+#: templates/specs.php:130 templates/specs.php:168
+#, php-format
+msgid "%s specifications"
+msgstr ""
